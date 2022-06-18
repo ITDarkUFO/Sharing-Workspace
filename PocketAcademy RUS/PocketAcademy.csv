@@ -66,13 +66,13 @@
 #00059,Колодец
 #00060,Доска объяв.
 #00061,Подсобка
-#00062,Trampoline
+#00062,Трамплин
 #00063,Dojo
 #00064,Totem Pole
 #00065,Rocket
 #00066,Arcade
-#00067,Bench
-#00068,Planetarium
+#00067,Скамейка
+#00068,Планетарий
 #00069,Часы
 #00070,Буфет
 #00071,Vending Rm
@@ -87,7 +87,7 @@
 #00080,Tiny Mart
 #00081,Lab
 #00082,Music Rm
-#00083,Cafeteria
+#00083,Кафетерий
 #00084,Art Rm
 #00085,Hm Ec Rm
 #00086,Comp Rm
@@ -988,8 +988,8 @@
 #00981,According to a letter we received, some students are unable to attend school due to a shortage of classrooms. If this continues, it can drastically affect the student's grades...
 #00982,Студенты по обмену
 #00983,В школы начали приезжать студенты по обмену, и новая школа <0> не исключение. Мы взяли эксклюзивное интервью у <1>: "Мы с родителями прочитали много брошюр и долго обсуждали тему перевода. В конце концов, мне понравилась идея пойти в совершенно новую школу."
-#00984,Upcoming Tests
-#00985,The 1st semester is almost over. The end-of-semester tests, which show how well students are doing in their studies, are in two weeks. Tests are given in 5 subjects, and students' scores will be compared with those from schools around the country. Schools that perform well will attract more students and may get cash bonuses.
+#00984,Приближающиеся тесты
+#00985,Первый семестр почти закончился. Итоговое тестирование, которое покажет насколько студенты преуспевают в науках уже через две недели. Тестирование проводится по 5 предметам, а оценки студентов будут сравниваться с оценками других студентов со всей страны. Школы которые показывают хорошие результаты, привлекают больше учеников, а также могут получить денежные премии.
 #00986,More Fields
 #00987,<0> has been putting a lot of effort into agricultural education, and as a result they can now construct more fields!|A student named <1> commented: I love watching the plants develop day after day. I feel like I have to try to grow, too.
 #00988,Principal's Office
