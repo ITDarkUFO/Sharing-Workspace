@@ -675,7 +675,7 @@
 #00668,Depending on the surroundings, the product price will increase.
 #00669,Teachers can discover 
 #00670,no Research Points here now.
-#00671, and 
+#00671, и 
 #00672, Research Points here.
 #00673,/Attribute(s):|
 #00674,exhibit no change.
@@ -706,21 +706,21 @@
 #00699,Меня охватывает такое волнение, что вчера даже не вышло сомкнуть глаза и поспать.
 #00700,My family moved near <0>, so here I am. I'll do my best.
 #00701,I thought I wouldn't be able to sleep last night, but I went out like a light!
-#00702,/By the way, my parents want to donate to the school./Please take this <1> and use it for the school.
-#00703,You got a donation of <0>.
+#00702,/Кстати, мои родители хотят сделать пожертвование./Пожалуйста, возьмите и используйте эти <1> для школы.
+#00703,Вы получили пожертвование в размере <0>.
 #00704,<0> is studying abroad.
 #00705,<0> is not at school.
 #00706,This is our first <0>. I'll make sure it's a big success.
 #00707,I understand. I'll make this <0> a big success.
 #00708,/Watch and see how many students change clothes like me.
-#00709,You don't have enough money...
+#00709,У вас недостаточно средств...
 #00710,<0> is going to ask someone out!
 #00711,You don't have enough <1> Points to level up <0>.
 #00712,Thanks to you, my abilities have reached their limits. Please focus on the other teachers.
 #00713,<0> is now level <1>!/Their salary went up by <2>% and they got <3> Education Points!
 #00714,I found some new teacher candidates, but there are too many system objects present./Remove some unused facilities or decorative items and try again.
-#00715,I looked for new teacher candidates, but couldn't find any...
-#00716,We had <0> applicants for the new teaching position!
+#00715,Я искала кандидатуры на место учителя, но никого не нашла...
+#00716,У нас есть <0> кандидатов на место нового учителя!
 #00717,Going to: <0>
 #00718,The event caused a reduction in potential applicants...
 #00719,The event caused an increase in potential applicants!
@@ -1617,17 +1617,17 @@
 #01618,Student Avg
 #01619,Total Grade (Out of 500)
 #01620,<0> (Out of 100)
-#01621,Budget (Year)
-#01622,Budget (Month)
-#01623,Budget (Week)
+#01621,Бюджет за год
+#01622,Бюджет за месяц
+#01623,Бюджет за неделю
 #01624,Зарплата
-#01625,Expenses
-#01626,Tuition
+#01625,Траты
+#01626,Плата за обучение
 #01627,Crops, etc.
 #01628,Бонусы
 #01629,Construction
 #01630,Personnel
-#01631,Other
+#01631,Другое
 #01632,Событие
 #01633,Go to <0>
 #01634,Reward
@@ -1662,8 +1662,8 @@
 #01664,Женщина
 #01665,Начать игру
 #01666,Баллов
-#01667,In the Lite version,
-#01668,Only <0> is available.
+#01667,В лайт версии,
+#01668,Доступно только <0>
 #01669,Не пройдено
 #01670,<0> бл-в
 #01671,Выберите имя школы и униформу
