@@ -81,7 +81,7 @@
 #00074,Кладовая
 #00075,Комната отдыха
 #00076,PA Rm
-#00077,Кабинет медсестры
+#00077,Каб. медсестры
 #00078,Библиотека
 #00079,AV Room
 #00080,Tiny Mart
@@ -102,7 +102,7 @@
 #00095,Класс Г1
 #00096,Класс Г2
 #00097,Класс Г3
-#00098,Кабинет директора
+#00098,Каб. директора
 #00099,Ворота
 #00100,Курица
 #00101,Кролик
@@ -658,7 +658,7 @@
 #00651,<0>'s career path changed to <1>.
 #00652,New career path: <0>
 #00653,Request received: <0>
-#00654,=#00653
+#00654,Request received: <0>
 #00655,New facilities unlocked.
 #00656,Max <0> increased.
 #00657,You got some <0> seeds.
@@ -697,7 +697,7 @@
 #00690,No available guides...
 #00691,Наблюдение за <0>...
 #00692,On this screen, you can try academic challenges for each subject./If you succeed, you can increase monthly tuition./Education level is shared by the entire school.
-#00693,У вас нет предметов, которые может использовтаь <0>.
+#00693,У вас нет предметов,|которые может использовать <0>.
 #00694,Moving to: <0>
 #00695,There is no classroom for <0>! Hurry and build one!
 #00696,Class <0> has nowhere to go! Build a classroom!
@@ -744,9 +744,9 @@
 #00737,Monthly tuition has increased by <0>./Let me try challenges in other subjects!
 #00738,It's like taking candy from a baby. 
 #00739,That's what studying every day does for you. 
-#00740,My rabbit's foot must really be working. 
+#00740,Моя кроличья лапка, видимо, и правда работает.
 #00741,The grades of all students at the school have increased. 
-#00742,Monthly tuition increased by <0>./Let me try some other challenges!
+#00742,Плата за обучение повысилась на <0>./Позвольте мне попробовать пройти другие испытания!
 #00743,I'm sorry. I studied, but I just couldn't pass. 
 #00744,That's funny. I thought I was just barely going to pass, but… 
 #00745,I failed... And got a good night's sleep last night, too… 
@@ -777,10 +777,10 @@
 #00770,Not enough <1> Points.
 #00771,Not enough funds.
 #00772,Starting <0>
-#00773,Congrats! You passed the <0> test!
-#00774,/<0> level is at the maximum!
-#00775,/<0> level is now <1>!
-#00776,Overall tuition went up by <0>!
+#00773,Поздравляем! Вы выполнили тест <0>!
+#00774,/<0> теперь максимального уровня!
+#00775,/<0> теперь имеет уровень <1>!
+#00776,Общая плата за обучение увеличилась на <0>!
 #00777,<0> test failed...
 #00778,<1> студента поступили в <0>!/
 #00779,С текущего момента, студенты будут учиться и использовать школьное оборудование./Для получения подсказки, выберите "Помощь" в пункте меню "Система"./Сначала попробуйте построить различные помещения, чтобы расширить свою школу.
@@ -841,14 +841,14 @@
 #00834,=#00709
 #00835,<0>'s Sister School Level is already at the maximum.
 #00836,<0> is studying at <1>./You can only have study abroad students at one school at a time.
-#00837,We got into the top <0>|for the first time!
+#00837,Мы впервые вошли в топ <0>!
 #00838,We finally reached #1|in the national rankings!
-#00839,/We got a special bonus of <0>!
+#00839,/Мы получили специальный бонус <0>!
 #00840,I wonder how well we can do next time!
 #00841,We couldn't get a score without any students.../I hope we get some transfer students soon.
 #00842,We're improving. I can't wait to see how we do next time.
 #00843,Our rank went down from last time, but let's keep at it.
-#00844,You got a test bonus of <0>.
+#00844,Вы получили бонус за тест <0>.
 #00845,Это место сейчас пусто, но мы можем получить студента по обмену, если наша школа будет достаточно привлекательной.
 #00846,We don't have any teachers! We have to hire some immediately!
 #00847,There's no school today.
@@ -940,8 +940,8 @@
 #00933,Завершено
 #00934,<0> is going to school.
 #00935,<0> is leaving school.
-#00936,<0> made a new friend.
-#00937,<0> now has <1> friends.
+#00936,У <0> появился новый друг
+#00937,У <0> теперь <1> друзей
 #00938,Meeting up with <0> and others.
 #00939,Meeting up with <0>.
 #00940,=#00935
@@ -974,9 +974,9 @@
 #00967,The results for the final national achievement test of the year are now in.
 #00968,/Students not at school will be evaluated using day-to-day performance.
 #00969,There was an achievement test the other day, but we didn't have anyone take it.
-#00970,Закончился 1ый семестр. Время летних каникул!
-#00971,Закончился 2ой семестр. Время зимних каникул!
-#00972,Закончился 3ий семестр. Время весенних каникул!
+#00970,Закончился первый семестр. Время летних каникул!
+#00971,Закончился второй семестр. Время зимних каникул!
+#00972,Закончился третий семестр. Время весенних каникул!
 #00973,New club unlocked: <0>!
 #00974,<0> complete!
 #00975,К нам прибыл студент по обмену! Мы должны поддерживать хорошую репутацию!/Не могу дождаться момента, когда у нас станет учиться еще больше студентов.
@@ -1453,7 +1453,7 @@
 #01450,Тест
 #01451,Ранг
 #01452,№<0>
-#01453,<0> баллов
+#01453,<0> бл.
 #01454,Перейти к классу
 #01455,<0>
 #01456,Дружба
@@ -1540,7 +1540,7 @@
 #01540,Учителя
 #01541,Оценки
 #01542,Обычный
-#01543,Change
+#01543,Изменение
 #01544, Rate
 #01545,Current Items
 #01546,Мужчина
@@ -1614,9 +1614,9 @@
 #01615,Всего выпускников
 #01616,Результаты теста
 #01617,← → to view details.
-#01618,Student Avg
-#01619,Total Grade (Out of 500)
-#01620,<0> (Out of 100)
+#01618,Сред. оценка
+#01619,Общая оценка (макс. 500)
+#01620,<0> (макс. 100)
 #01621,Бюджет за год
 #01622,Бюджет за месяц
 #01623,Бюджет за неделю
@@ -1665,7 +1665,7 @@
 #01667,В лайт версии,
 #01668,Доступно только <0>
 #01669,Не пройдено
-#01670,<0> бл-в
+#01670,<0> бл.
 #01671,Выберите имя школы и униформу
 #01672,Муж. униф.
 #01673,Жен. униф.
@@ -1687,9 +1687,9 @@
 #01689,<0> was|turned down…
 #01690,No change to grade average
 #01691,Средняя оценка
-#01692,Taking <0> Test
+#01692,Проходит тест <0>
 #01693,Испытание выполнено
-#01694,Now for the results...
+#01694,Посмотрим результаты...
 #01695,Congrats! They passed!
 #01696,They failed...
 #01697,Испытания
@@ -1724,10 +1724,10 @@
 #01726,Average & Ranking
 #01727,0 pts
 #01728,#1
-#01729,Now
-#01730,Last
-#01731,<0>x ago
-#01732,=#01451
+#01729,Тк. год
+#01730,Пр. год
+#01731,<0> г.н
+#01732,Ранг
 #01733,=#01554
 #01734,=MID(#01728,1,-1)&'--'
 #01735,Каталог
@@ -1800,7 +1800,7 @@
 #01802,Tap Ок to change.
 #01803,Types: Boys <0> / Girls <1>
 #01804,Подтвердить
-#01805,Рекорд1
+#01805,Рекорд
 #01806,Кол-во баллов
 #01807,Макс. капитал за 10 лет
 #01808,Нет рекорда
@@ -2048,7 +2048,7 @@
 #02050,New Term
 #02051,Enrollment
 #02052,Placement 1
-#02053,=MID(#02052,1,-1)&'2'
+#02053,"=MID(#02052,1,-1)&'2'""
 #02054,Plans
 #02055,Hum hum
 #02056,Feels good
@@ -2306,7 +2306,7 @@
 #02308,期间
 #02309,Стоим.
 #02310,=#00025
-#02311,=#01451
+#02311,Ранг
 #02312,=#01763
 #02313,全部
 #02314,全部设施
